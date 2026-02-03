@@ -1,0 +1,51 @@
+body {
+  font-family: Verdana, Geneva, sans-serif;
+  background-color: #0b1320;
+  color: #e5e7eb;
+  margin: 0;
+  line-height: 1.7;
+}
+
+header, main, footer {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 18px;
+}
+
+header {
+  background-color: #111a2b;
+  border-bottom: 3px solid #f59e0b;
+}
+
+h1 {
+  font-family: "Trebuchet MS", Arial, sans-serif;
+  letter-spacing: 0.5px;
+  margin: 0;
+}
+
+h2 {
+  margin-top: 0;
+  color: #f59e0b;
+}
+
+nav ul {
+  padding-left: 18px;
+}
+
+main {
+  background-color: #0f1b33;
+  border: 1px solid #22304f;
+  border-radius: 8px;
+}
+
+footer {
+  border-top: 1px solid #22304f;
+}
+
+a {
+  color: #93c5fd;
+}
+
+a:hover {
+  color: #bfdbfe;
+}
