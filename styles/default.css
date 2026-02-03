@@ -32,7 +32,10 @@ main {
 a {
   color: #2563eb;
 }
-
+img {
+    max-width: 200%;
+    height: auto;
+}
 a:hover {
   color: #1d4ed8;
 }
